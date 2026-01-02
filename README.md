@@ -2,7 +2,7 @@
 
 Welcome to the Math and Science website repository! This project contains the source code for an educational platform designed to provide math and science content and tools.
 
-You can check out the live version of the website at [Math and Science Website](/) (replace this link with your actual live site link).
+You can check out the live version of the website at [Math and Science Website](https://mathway-app.vercel.app/) (replace this link with your actual live site link).
 
 ## License
 
