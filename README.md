@@ -133,4 +133,4 @@ For questions, permissions, feature requests, or commercial inquiries:
 
 ## 👨‍💻 Developer
 
-Created and maintained by **Thabang Kgotso Kadimeng**
+Created and maintained by **Kgotso**
